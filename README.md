@@ -15,7 +15,7 @@ _ Remove
 - Scent types
 - description
 
-# Currently have data for more than 100 popular colognes or perfumes stored
+ Currently have data for more than 100 popular colognes or perfumes stored
 
 # What's next?
 - Creating a full stack application that ultlizes the data base and API to recommend users fragrances based on their perferences
