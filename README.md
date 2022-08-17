@@ -9,6 +9,7 @@ The goal for Fragrance API is to allow users too pull data and add data about fr
 - Java Spring Boot
 - JPA
 - MySql
+- Maven
 - AWS server
 
 # Functions
